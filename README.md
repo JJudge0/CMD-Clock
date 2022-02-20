@@ -1,2 +1,2 @@
 # CMD-Clock
-Clock File
+Simple Clock with date using notepad
